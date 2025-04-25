@@ -19,5 +19,5 @@ body{
 .nav-bar{
     display: flex; /* Exibe os itens da barra de navegação em linha */
     justify-content: space-between; /* Espaçamento uniforme entre os itens */
-    padding-right: 45px; /* Adiciona espaçamento à direita */
+    padding-right: 45px; /* Adiciona espaçamento a direita */
 }
