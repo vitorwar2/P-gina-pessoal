@@ -1,11 +1,11 @@
 body{
-    background-color: #6a56a0; /* Define a cor de fundo da página */
+    background-color: #f2f2f5; /* Define a cor de fundo da página */
     color: white; /* Define a cor do texto */
     font-family: 'poppins', sans-serif; /* Define a fonte principal */
 }
 
 .nav-bar a {
-    color: white; /* Altera a cor dos meus links para branco */
+    color: rgb(14, 1, 1); /* Altera a cor dos meus links para branco */
     text-decoration: none; /* Remove o sublinhado padrão dos links */
 }
 
