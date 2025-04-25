@@ -1,0 +1,23 @@
+body{
+    background-color: #6a56a0; /* Define a cor de fundo da página */
+    color: white; /* Define a cor do texto */
+    font-family: 'poppins', sans-serif; /* Define a fonte principal */
+}
+
+.nav-bar a {
+    color: white; /* Altera a cor dos meus links para branco */
+    text-decoration: none; /* Remove o sublinhado padrão dos links */
+}
+
+.nav-icon {
+    width: 30px; /* Ajuste o tamanho conforme necessário */
+    height: 30px;
+    vertical-align: middle;
+    margin-right: 5px;
+}
+
+.nav-bar{
+    display: flex; /* Exibe os itens da barra de navegação em linha */
+    justify-content: space-between; /* Espaçamento uniforme entre os itens */
+    padding-right: 45px; /* Adiciona espaçamento à direita */
+}
